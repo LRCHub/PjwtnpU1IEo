@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "More Than This",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-01T05:40:21.631679Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "New Arcades feat. Lula",
+      "has_synced": true,
+      "path": "select/01_More_Than_This_New_Arcades_feat._Lula.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "More Than This (feat. Lula)",
+      "artist": "New Arcades",
+      "has_synced": true,
+      "path": "select/02_More_Than_This_(feat._Lula)_New_Arcades.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "More Than This (From \"the X-Files\")",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/03_More_Than_This_(From__the_X-Files_)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/04_More_Than_This_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "10,000 Maniacs",
+      "has_synced": true,
+      "path": "select/05_More_Than_This_10,000_Maniacs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More Than This - Campfire Take",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/06_More_Than_This_-_Campfire_Take_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "More Than This (Campfire take)",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/07_More_Than_This_(Campfire_take)_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Roxy Music",
+      "has_synced": true,
+      "path": "select/08_More_Than_This_Roxy_Music.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "More Than This (From The X-Files: The Album)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_More_Than_This_(From_The_X-Files__The_Album)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/10_More_Than_This_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "More Than This (Radio Edit)",
+      "artist": "Peter Gabriel",
+      "has_synced": false,
+      "path": "select/11_More_Than_This_(Radio_Edit)_Peter_Gabriel.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Zucchero",
+      "has_synced": false,
+      "path": "select/12_More_Than_This_Zucchero.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Soulwax",
+      "has_synced": false,
+      "path": "select/13_More_Than_This_Soulwax.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Submotion Orchestra feat. Billy Boothroyd",
+      "has_synced": false,
+      "path": "select/14_More_Than_This_Submotion_Orchestra_feat._Billy_Boothroyd.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "More Than This",
+      "artist": "Vanessa Carlton",
+      "has_synced": true,
+      "path": "select/15_More_Than_This_Vanessa_Carlton.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "More Than This (Live)",
+      "artist": "Electrelane",
+      "has_synced": false,
+      "path": "select/16_More_Than_This_(Live)_Electrelane.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "More Than This (1999 Remastered)",
+      "artist": "Roxy Music",
+      "has_synced": false,
+      "path": "select/17_More_Than_This_(1999_Remastered)_Roxy_Music.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "More Than This (Remastered/1999)",
+      "artist": "Roxy Music",
+      "has_synced": false,
+      "path": "select/18_More_Than_This_(Remastered_1999)_Roxy_Music.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_More_Than_This_One_Direction.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_02_More_Than_This_One_Direction.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_03_More_Than_This_One_Direction.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_04_More_Than_This_One_Direction.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "More Than This Was",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_05_More_Than_This_Was_One_Direction.txt"
+    }
+  ]
+}
